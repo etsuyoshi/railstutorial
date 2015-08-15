@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '3.3.0'
 
+# encrypt
+gem 'bcrypt-ruby', '3.1.2'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
